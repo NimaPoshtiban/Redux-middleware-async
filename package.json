@@ -1,0 +1,20 @@
+{
+  "name": "asyncmiddlewareredux",
+  "version": "1.0.0",
+  "description": "pass promises to the action with no worries \r ## How does it works?\r So simple just apply that middleware in your project by importing {applyMiddleware} from redux",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimaPoshtiban/Redux-middleware-async.git"
+  },
+  "keywords": [],
+  "author": "NimaPoshtiban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NimaPoshtiban/Redux-middleware-async/issues"
+  },
+  "homepage": "https://github.com/NimaPoshtiban/Redux-middleware-async#readme"
+}
