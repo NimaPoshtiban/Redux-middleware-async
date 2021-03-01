@@ -16,4 +16,6 @@ import rootReducer from './reducers/index';
 
 const store = createStore(rootReducer, applyMiddleware(AsyncRedux));
 ```
-![NimaPoshtiban's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimaposhtiban&show_icons=true&theme=synthwave)
+[![NimaPoshtiban's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimaposhtiban&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimaposhtiban)](https://github.com/NimaPoshtiban/Redux-middleware-async)
