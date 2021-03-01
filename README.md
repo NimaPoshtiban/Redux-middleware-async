@@ -7,12 +7,12 @@ So simple just apply that middleware in your project by importing {applyMiddlewa
 ```
 npm install asyncmiddlewareredux
 ```
-then to enable Redux-middleware-async ,use ```applyMiddleware()```:
+then to enable Redux-middleware-async ,use ```<a>applyMiddleware()</a>```:
 ```
 import { createStore, applyMiddleware } from 'redux';
 import AsyncRedux from 'asyncmiddlewareredux';
 import rootReducer from './reducers/index';
 
-// Note: this API requires redux@>=3.1.0
+
 const store = createStore(rootReducer, applyMiddleware(AsyncRedux));
 ```
